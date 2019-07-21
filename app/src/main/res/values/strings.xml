@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">DEÜ Kütüphane Katalog Tarama</string>
+    <string name="ara">Ara</string>
+    <string name="butonGeri">Geri</string>
+    <string name="butonIleri">Ileri</string>
+
+    <string name="strAranacakKelime">Aranacak Kelime</string>
+    <string name="strGiris">Dokuz Eylül Üniversitesi\nKütüphane Katalog Tarama</string>
+
+    <string name="errInternet">İnternet Bağlantısını Kontrol Edin</string>
+    <string name="errBirHata">Bir Hata Oluştu. Lütfen Tekrar Deneyiniz</string>
+    <string name="errUygunKayt">Uygun Kayıt Bulunamadı .</string>
+    <string name="errIlkSayfa">İlk Sayfadasınız.</string>
+    <string name="errSonSayfa">Gösterilecek Başka Veri Yok</string>
+    <string name="errLokasyn">Lokasyon Kayıtlı Değil. Lütfen İletişime Geçiniz</string>
+    <string name="errbos">Lütfen Boş Bırakmayınız.</string>
+    <string name="errMapOlmyblr">Hata! Cihazınızda Google Maps Yüklü Olmayabilir</string>
+    <string name="errYazarBulunamadi">Yazar Bilgisi Bulunamadı</string>
+
+    <string name="menuHakkinda">Hakkında</string>
+    <string name="menuHakkindaBaslik">Hakkinda</string>
+    <string name="menuHakkindaMesaj">Geliştiriciler \nMert ÇALIŞKAYÜREK\nŞıh Mehmet TELLİOĞLU \n\nDokuz Eylül Üniversitesi Öğrencilerinin Bir Açık Kaynak Projesidir. 2018</string>
+    <string name="menuHakkindaButon">Tamam</string>
+
+    <string name="menuAramaGecmisi">Arama Geçmişi</string>
+    <string name="menuYardim">Yardım</string>
+    <string name="menuLinkYardim">https://drive.google.com/file/d/1q6Ankp-cluyxNzezmsos_oC8PG68yVYk/view</string>
+
+    <string name="contxMenuHaritGost">Haritada Göster</string>
+    <string name="contxMenuAra">Googleda Ara</string>
+
+    <string name="prefSonAranan">PrefSonAranan</string>
+    <string name="prefAramaTuru">PrefAramaTuru</string>
+
+    <string name="descImageView">Eğer kitap raftaysa yeşil kitap değilse kırmızı kitap resmi gosterilir</string>
+
+    <string name="isimExtra">kutuphane_ismi_extra</string>
+
+    <string name="infoBuldYer">Bulunduğu Yer</string>
+    <string name="infoRafNo">Raf No</string>
+    <string name="infoDurum">Durumu</string>
+
+
+    <string name="google_maps_key">AIzaSyDDML2SpWw_2E34H0vygjU29LBcvOZuvcs</string>
+
+    <string-array name="aramaBicimi">
+        <item>Anahtar Kelime</item>
+        <item>Başlık</item>
+        <item>Yazar</item>
+        <item>Konu</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mosstech.dokuzeylulkatalogtarama.SonuclarActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:id="@+id/progressBarSonuc"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_weight="0.13"
+            android:foregroundGravity="center" />
+
+        <ImageView
+            android:id="@+id/imageViewOnckSyf"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_toLeftOf="@+id/imageViewAnaSyf"
+            android:layout_toStartOf="@+id/imageViewAnaSyf"
+            app:srcCompat="@drawable/prev300" />
+
+        <ImageView
+            android:id="@+id/imageViewAnaSyf"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@drawable/home" />
+
+        <ImageView
+            android:id="@+id/imageViewSnrkSyf"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignTop="@+id/imageViewAnaSyf"
+            android:layout_marginLeft="50dp"
+            android:layout_marginStart="50dp"
+            android:layout_toEndOf="@+id/imageViewAnaSyf"
+            android:layout_toRightOf="@+id/imageViewAnaSyf"
+            app:srcCompat="@drawable/next300" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/listViewSonuclar"
+        android:layout_width="match_parent"
+        android:layout_height="458dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" >
+
+    </ListView>
+
+</RelativeLayout>
