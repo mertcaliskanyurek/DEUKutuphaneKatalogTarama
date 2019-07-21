@@ -7,7 +7,7 @@ Anahtar kelime, başlık, yazar adı, konu filtreleri ile kitap aratabilirsiniz.
 
 Aynı zamanda kitapların bulunan kitapların isimlerini google'da aratabilir hakkında daha fazla bilgi edinebilirsiniz.
 
-<img src="./Screenshot1.png" width="512" height="910">
-<img src="./Screenshot2.png" width="512" height="910">
-<img src="./Screenshot3.png" width="512" height="910">
-<img src="./Screenshot4.png" width="512" height="910">
+<img src="./Screenshot1.png" width="300" height="533">
+<img src="./Screenshot2.png" width="300" height="533">
+<img src="./Screenshot3.png" width="300" height="533">
+<img src="./Screenshot4.png" width="300" height="533">
