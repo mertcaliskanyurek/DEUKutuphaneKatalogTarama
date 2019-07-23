@@ -41,7 +41,7 @@
     <string name="infoDurum">Durumu</string>
 
 
-    <string name="google_maps_key">AIzaSyDDML2SpWw_2E34H0vygjU29LBcvOZuvcs</string>
+    <string name="google_maps_key">Api_keyi_buraya_yapıştırın</string>
 
     <string-array name="aramaBicimi">
         <item>Anahtar Kelime</item>
